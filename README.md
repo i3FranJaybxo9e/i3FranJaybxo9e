@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm i3FranJaybxo9e
 
-<!--
-**i3FranJaybxo9e/i3FranJaybxo9e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛼 🏒 🥊 Excited about blockchain 🛼 🏒 🥊
 
-Here are some ideas to get you started:
+## About Me
+🎻 🚣 🛹 A lover of UI/UX design 🎻 🚣 🛹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛶 🛶 🏒 🎳 Working on open source 🛶 🛶 🏒 🎳
+
+### Fun Facts
+🚴 🎯 🏑 🎱 Obsessed with augmented reality 🚴 🎯 🏑 🎱
+
+---
+🚴 🏄 🏓 🎮 🎺 Thanks for visiting my profile! 🏹 🌍 🏑 🏊 🏓
